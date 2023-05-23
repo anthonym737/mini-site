@@ -1,0 +1,11 @@
+.cg-liste-courses {
+	width: 100%;
+}
+
+.cg-liste-articles {
+	list-style-type: none;
+	padding: 32px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}

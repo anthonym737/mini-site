@@ -1,0 +1,30 @@
+.cg-bag {
+    color: white;
+	background-color: #77b5fe;
+	padding: 32px;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	width: 300px;
+}
+
+.cg-bag-toggle-button {
+    background: none;
+	outline: none;
+	border: none;
+	font-weight: 600;
+	cursor: pointer;
+	align-self: self-start;
+	padding: 0;
+	color: white;
+	align-self: flex-end;
+}
+
+.cg-bag-closed {
+    padding: 32px;
+	width: 300px;
+}
+
+.cg-bag-closed  > button {
+    color: black;
+}
